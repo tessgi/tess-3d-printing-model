@@ -11,8 +11,8 @@ You will need to print one of each file except for the solar arrays. You will ne
 ## Model files
 
 ### Cameras and sun shade
-[![Preview](preview/model_cone_1_200px.png)](model-files/Cone.stl)
 The TESS instrument is comprised of four identical cameras. Each camera has seven lenses, a package of detectors and electronics to detect transits of exoplanets around distant stars. The cameras each have a lens hood to help prevent stray light from other sources from entering lenses and distorting the light from distant stars that TESS will focus on. The four cameras are placed on a camera plate. The camera plate is enclosed by a sun shade to further protect the cameras from stay light.
+[![Preview](preview/model_cone_1_200px.png)](model-files/Cone.stl)
 
 ### Spacecraft
 [![Preview](preview/model_body_1_200px.png)](model-files/Body.stl)
