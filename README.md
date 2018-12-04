@@ -32,6 +32,8 @@ The solar arrays (PURPLE) are fragile and thin so install them last. Place one s
 
 Once the spacecraft is dry and the glue has set you have your completed 3D TESS model. 
 
+For inspiration, check out the [model created by astronomer Stephen Kane](http://stephenkane.net/tess/).
+
 ### Model files
 
 #### Cameras and sun shade
