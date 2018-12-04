@@ -37,10 +37,10 @@ For inspiration, check out the [model created by astronomer Stephen Kane](http:/
 ### Model files
 
 #### Cameras and sun shade
-The TESS instrument is comprised of four identical cameras. Each camera has seven lenses, a package of detectors and electronics to detect transits of exoplanets around distant stars. The cameras each have a lens hood to help prevent stray light from other sources from entering lenses and distorting the light from distant stars that TESS will focus on. The four cameras are placed on a camera plate. The camera plate is enclosed by a sun shade to further protect the cameras from stay light. The model file is called [3d-model-files/Cone.stl](3d-model-files/cone.stl)
+The TESS instrument is comprised of four identical cameras. Each camera has seven lenses, a package of detectors and electronics to detect transits of exoplanets around distant stars. The cameras each have a lens hood to help prevent stray light from other sources from entering lenses and distorting the light from distant stars that TESS will focus on. The four cameras are placed on a camera plate. The camera plate is enclosed by a sun shade to further protect the cameras from stay light. The model file is called [3d-model-files/Cone.stl](3d-model-files/Cone.stl)
 
 #### Spacecraft
-The spacecraft includes the structure and components to support the TESS science instrument. Within the spacecraft, batteries, propulsion (fuel, and thrusters), reaction wheels computers for commanding the spacecraft and transmitting data all allow the TESS science instrument to complete the mission for finding new exoplanets. The model file is called [3d-model-files/Cone.stl](3d-model-files/Cone.stl)
+The spacecraft includes the structure and components to support the TESS science instrument. Within the spacecraft, batteries, propulsion (fuel, and thrusters), reaction wheels computers for commanding the spacecraft and transmitting data all allow the TESS science instrument to complete the mission for finding new exoplanets. The model file is called [3d-model-files/Body.stl](3d-model-files/Body.stl)
 
 #### Antennas
 
