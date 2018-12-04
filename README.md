@@ -36,5 +36,5 @@ The antennas on TESS allow for the transmission of commands to the spacecraft an
 
 ### Solar arrays
 Spacecraft operating in the inner Solar System usually rely on the use of solar panels to derive electricity from sunlight. Solar panels on spacecraft supply power for the instrument and spacecraft systems. Solar panels need to have a lot of surface area that can be pointed towards the Sun as the spacecraft moves. More exposed surface area means more electricity can be converted from light energy from the Sun. 
-[![Preview](preview/model_solar_panel_1_200px.png)](3d-model-files/SolarPanels.stl)
+[![Preview](preview/model_solar-panel_1_200px.png)](3d-model-files/SolarPanels.stl)
 
