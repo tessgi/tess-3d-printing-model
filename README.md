@@ -1,7 +1,7 @@
 # tess-3d-printing-model
 Print your own TESS Spacecraft 3D Puzzle!
 
-3d printed model           |  Paper model
+[3d printed model](#3d-model)           |  [Paper model](#paper-model) 
 :-------------------------:|:-------------------------:
 ![3d printed model](/preview/tess_3d_model_1.jpg)  |  ![2d printed model](/preview/tess_paper_model_1.jpg)
 
@@ -13,12 +13,7 @@ Print your own TESS Spacecraft 3D Puzzle!
       * [Antennas](#antennas)
       * [Solar arrays](#solar-arrays)
 * [Paper model](#paper-model)
-  * [Instructions](#instructions)
-  * [Model files](#model-files)
-      * [Cameras and sun shade](#cameras-and-sun-shade)
-      * [Spacecraft](#spacecraft)
-      * [Antennas](#antennas)
-      * [Solar arrays](#solar-arrays)
+  * [Model file](#model-file)
  
 
 ## 3d model
@@ -62,7 +57,10 @@ Spacecraft operating in the inner Solar System usually rely on the use of solar 
 |![3d printed model](/preview/completed_color_5_200px.jpg)|![3d printed model](/preview/completed_color_7_200px.jpg)|![3d printed model](/preview/completed_color_9_200px.jpg)|![3d printed model](/preview/completed_color_10_200px.jpg)|
 
 
-# Paper model
+## Paper model
+
+### Model file
+The whole model can be downloaded as a [single PDF file](paper-model-files/TESS-model-v2.pdf).
 
 
 
