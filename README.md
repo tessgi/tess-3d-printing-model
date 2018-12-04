@@ -1,8 +1,9 @@
 # tess-3d-printing-model
 Print your own TESS Spacecraft 3D Puzzle!
 
-![3d printed model](/preview/tess_3d_model_1.jpg)
-![2d printed model](/preview/tess_paper_model_1.jpg)
+3d printed model           |  Paper model
+:-------------------------:|:-------------------------:
+![3d printed model](/preview/tess_3d_model_1.jpg)  |  ![2d printed model](/preview/tess_paper_model_1.jpg)
 
 ## Instructions
 You will need to print one of each file except for the solar arrays. You will need to print two of the arrays.
@@ -24,3 +25,4 @@ The antennas on TESS allow for the transmission of commands to the spacecraft an
 ### Solar arrays
 [![Preview](preview/model_solar_panel_1_200px.png)](model-files/SolarPanels.stl)
 Spacecraft operating in the inner Solar System usually rely on the use of solar panels to derive electricity from sunlight. Solar panels on spacecraft supply power for the instrument and spacecraft systems. Solar panels need to have a lot of surface area that can be pointed towards the Sun as the spacecraft moves. More exposed surface area means more electricity can be converted from light energy from the Sun. 
+
