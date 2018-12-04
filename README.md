@@ -58,7 +58,7 @@ Spacecraft operating in the inner Solar System usually rely on the use of solar 
 
 ### Reference images
 |![3d printed model](/preview/completed_model_1_200px.jpg)|![3d printed model](/preview/completed_model_2_200px.jpg)|![3d printed model](/preview/completed_model_3_200px.jpg)|![3d printed model](/preview/completed_model_4_200px.jpg)|
-|![3d printed model](/preview/completed_color_1_200px.jpg)|![3d printed model](/preview/completed_color_2_200px.jpg)|![3d printed model](/preview/completed_colorl_3_200px.jpg)|![3d printed model](/preview/completed_color_4_200px.jpg)|
+|![3d printed model](/preview/completed_color_5_200px.jpg)|![3d printed model](/preview/completed_color_7_200px.jpg)|![3d printed model](/preview/completed_colorl_9_200px.jpg)|![3d printed model](/preview/completed_color_10_200px.jpg)|
 
 
 # Paper model
