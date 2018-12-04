@@ -1,5 +1,5 @@
-# tess-3d-printing-model
-Print your own TESS Spacecraft 3D Puzzle!
+# TESS models
+Print your own TESS Spacecraft!
 
 [3d printed model](#3d-model)           |  [Paper model](#paper-model) 
 :-------------------------:|:-------------------------:
